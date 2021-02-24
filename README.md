@@ -13,10 +13,11 @@
 |9|116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Populating%20Next%20Right%20Pointers%20in%20Each%20Node.java) |Medium|
 |10|135|[Candy](https://leetcode.com/problems/candy/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Candy.java) |Hard|
 |11|143|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Binary%20Tree%20Preorder%20Traversal.java) |Medium|
-|12|513|[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Find%20Bottom%20Left%20Tree%20Value.java) |Medium|
-|13|543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Diameter%20of%20Binary%20Tree.java) |Easy|
-|14|560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Subarray%20Sum%20Equals%20K.java)|Medium|
-|15|643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Maximum%20Average%20Subarray%20I.java)|Easy|
-|16|876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Middle%20of%20the%20Linked%20List.java)|Easy|
-|17|896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Monotonic%20Array.java)|Easy|
-|18|1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Relative%20Sort%20Array.java)|Easy|
+|12|412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Fizz%20Buzz.java) |Easy|
+|13|513|[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Find%20Bottom%20Left%20Tree%20Value.java) |Medium|
+|14|543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Diameter%20of%20Binary%20Tree.java) |Easy|
+|15|560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Subarray%20Sum%20Equals%20K.java)|Medium|
+|16|643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Maximum%20Average%20Subarray%20I.java)|Easy|
+|17|876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Middle%20of%20the%20Linked%20List.java)|Easy|
+|18|896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Monotonic%20Array.java)|Easy|
+|19|1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Relative%20Sort%20Array.java)|Easy|
