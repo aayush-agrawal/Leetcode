@@ -12,8 +12,9 @@
 |7|107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Binary%20Tree%20Level%20Order%20Traversal%20II.java) |Medium|
 |8|111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Minimum%20Depth%20of%20Binary%20Tree.java) |Easy|
 |9|116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Populating%20Next%20Right%20Pointers%20in%20Each%20Node.java) |Medium|
-|10|135|[Candy](https://leetcode.com/problems/candy/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Candy.java) |Hard|
-|11|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Linked%20List%20Cycle.java) |Easy|
+|10|121|[ Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Best%20Time%20to%20Buy%20and%20Sell%20Stock.java) |Easy|
+|11|135|[Candy](https://leetcode.com/problems/candy/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Candy.java) |Hard|
+|12|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Linked%20List%20Cycle.java) |Easy|
 |12|142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Linked%20List%20Cycle%20II.java) |Medium|
 |13|143|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Binary%20Tree%20Preorder%20Traversal.java) |Medium|
 |14|200|[Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Number%20of%20Islands.java) |Medium|
