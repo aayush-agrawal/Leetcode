@@ -13,16 +13,17 @@
 |9|116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Populating%20Next%20Right%20Pointers%20in%20Each%20Node.java) |Medium|
 |10|135|[Candy](https://leetcode.com/problems/candy/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Candy.java) |Hard|
 |11|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Linked%20List%20Cycle.java) |Easy|
-|11|143|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Binary%20Tree%20Preorder%20Traversal.java) |Medium|
-|12|200|[Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Number%20of%20Islands.java) |Medium|
-|13|412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Fizz%20Buzz.java) |Easy|
-|14|463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Island%20Perimeter.java) |Easy|
-|15|513|[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Find%20Bottom%20Left%20Tree%20Value.java) |Medium|
-|16|543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Diameter%20of%20Binary%20Tree.java) |Easy|
-|17|560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Subarray%20Sum%20Equals%20K.java)|Medium|
-|18|643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Maximum%20Average%20Subarray%20I.java)| Easy|
-|19|695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Max%20Area%20of%20Island.java)| Medium|
-|20|876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Middle%20of%20the%20Linked%20List.java)|Easy|
-|21|896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Monotonic%20Array.java)|Easy|
-|22|1091|[Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Shortest%20Path%20in%20Binary%20Matrix.java)| Medium|
-|23|1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Relative%20Sort%20Array.java)|Easy|
+|12|142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Linked%20List%20Cycle%20II.java) |Medium|
+|13|143|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Binary%20Tree%20Preorder%20Traversal.java) |Medium|
+|14|200|[Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Number%20of%20Islands.java) |Medium|
+|15|412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Fizz%20Buzz.java) |Easy|
+|16|463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Island%20Perimeter.java) |Easy|
+|17|513|[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Find%20Bottom%20Left%20Tree%20Value.java) |Medium|
+|18|543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Diameter%20of%20Binary%20Tree.java) |Easy|
+|19|560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Subarray%20Sum%20Equals%20K.java)|Medium|
+|20|643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Maximum%20Average%20Subarray%20I.java)| Easy|
+|21|695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Max%20Area%20of%20Island.java)| Medium|
+|22|876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Middle%20of%20the%20Linked%20List.java)|Easy|
+|23|896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Monotonic%20Array.java)|Easy|
+|24|1091|[Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Shortest%20Path%20in%20Binary%20Matrix.java)| Medium|
+|25|1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Relative%20Sort%20Array.java)|Easy|
