@@ -3,9 +3,10 @@
 | # | # | Title | Solution | Difficulty |
 |---|---| ----- | -------- | ---------- |
 |1|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Two%20Sum.java) |Easy|
-|2|18|[4Sum](https://leetcode.com/problems/4sum/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/4%20Sum.java) |Medium|
-|3|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Trapping%20Rain%20Water.java) |Hard|
-|4|54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Spiral%20Matrix.java) |Medium|
+|2|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Roman%20to%20Integer.java) |Easy|
+|3|18|[4Sum](https://leetcode.com/problems/4sum/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/4%20Sum.java) |Medium|
+|4|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Trapping%20Rain%20Water.java) |Hard|
+|5|54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Spiral%20Matrix.java) |Medium|
 |5|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Remove%20Duplicates%20from%20Sorted%20List.java) |Easy|
 |5|105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.java) |Medium|
 |6|106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [Java](https://github.com/aayush-agrawal/Leetcode/blob/main/java/Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.java) |Medium|
